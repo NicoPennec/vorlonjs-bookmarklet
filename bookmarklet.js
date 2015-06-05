@@ -1,0 +1,1 @@
+javascript:(function(){var s=document.createElement("script");s.src="http://localhost:1337/vorlon.js";})()
